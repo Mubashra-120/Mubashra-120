@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me  
 
-- 🎓 Final-year **Computer Science student** at COMSATS University, Vehari Campus  
+- 🎓 I am a **Computer Science student** at COMSATS University, Vehari Campus  
 - 💻 Interested in **Frontend Development** (HTML, CSS, JavaScript, React.js)  
 - 🚀 Passionate about building **responsive and user-friendly web applications**  
 - 🤝 Love solving problems, learning new technologies, and working in collaborative environments  
